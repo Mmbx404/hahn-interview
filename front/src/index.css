@@ -1,0 +1,5 @@
+@import 'primereact/resources/themes/saga-blue/theme.css';
+/* Or another theme */
+@import 'primereact/resources/primereact.min.css';
+@import 'primeicons/primeicons.css';
+@import 'primeflex/primeflex.css';
